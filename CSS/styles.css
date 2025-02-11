@@ -54,11 +54,6 @@
   text-align: right;
   
 }
-
-.displayContainer {
-  width: 100%;
-  flex-direction: column;
-  gap: 5px;
   
 }
 
